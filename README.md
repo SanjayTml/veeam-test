@@ -1,5 +1,5 @@
 # veeam-test (Folder Synchronization)
-This program is designed to synchronize the contents of a source folder with a destination folder periodically and logs different events.
+This program is designed to synchronize the contents of a source folder with a destination folder periodically and logs different events. This program is a personal solution to the test task from the recruiting process of [Veeam](https://www.veeam.com/).
 
 ### Features
 - Compares the contents of a source folder with a destination folder
@@ -30,7 +30,7 @@ python sync.py -src <source_folder> -dst <destination_folder> -i <interval> -l <
 - l : Path to the log file
 
 ### Logging
-The program logs all events and errors during the synchronization process. The log files are stored in the same directory as the program and are named as sync.log.
+The program logs all events and errors during the synchronization process. By default, the log file is stored in the same directory as the program and is named as 'sync.log'.
 
 ### Exiting the program
 The program periodically asks the user to quit the program with a timeout feature. If the user enters 'q' the program exits and if the user enters 'c' the program continues to sync instantly otherwise waits until the timeout.
