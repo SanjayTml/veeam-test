@@ -1,0 +1,13 @@
+2023-01-28 17:24:13 INFO: Sync starts..
+2023-01-28 17:24:13 INFO: Copying 'source\anotherone\1.png' to destination folder
+2023-01-28 17:24:14 INFO: Copying success
+2023-01-28 17:24:14 INFO: Synced 'source\testfolder\test-text.txt' to 'replica\testfolder\test-text.txt'
+2023-01-28 17:24:14 INFO: Copied 1 files, deleted 0 files, modified 1 files.
+2023-01-28 17:24:14 INFO: Copied 0 folders, deleted 0 folders.
+2023-01-28 17:24:14 INFO: Total errors: 0
+2023-01-28 17:24:14 INFO: Sync complete!
+2023-01-28 17:24:19 INFO: Sync starts..
+2023-01-28 17:24:19 INFO: Copied 1 files, deleted 0 files, modified 1 files.
+2023-01-28 17:24:19 INFO: Copied 0 folders, deleted 0 folders.
+2023-01-28 17:24:19 INFO: Total errors: 0
+2023-01-28 17:24:19 INFO: Sync complete!
